@@ -1,11 +1,11 @@
 {
-    "name": "spatie/laravel-package-tools",
+    "name": "macerd/laravel-package-tools",
     "description": "Tools for creating Laravel packages",
     "keywords": [
         "spatie",
         "laravel-package-tools"
     ],
-    "homepage": "https://github.com/spatie/laravel-package-tools",
+    "homepage": "https://github.com/macerd/laravel-package-tools",
     "license": "MIT",
     "authors": [
         {
